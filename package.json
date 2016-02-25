@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/aboone08/holliman_group/issues"
   },
-  "homepage": "https://github.com/aboone08/holliman_group#readme"
+  "homepage": "https://github.com/aboone08/holliman_group#readme",
+  "dependencies": {
+    "morgan": "^1.7.0"
+  }
 }
