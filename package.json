@@ -1,0 +1,20 @@
+{
+  "name": "holliman_boone",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aboone08/holliman_group.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aboone08/holliman_group/issues"
+  },
+  "homepage": "https://github.com/aboone08/holliman_group#readme"
+}
