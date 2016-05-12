@@ -1,0 +1,15 @@
+#brand {
+  height: 50px;
+}
+
+.navbar {
+  background-color: gray;
+}
+
+#nav {
+  float: right;
+  padding: 10px;
+  color: white;
+  text-decoration: none;
+  margin-top: 8px;
+}
